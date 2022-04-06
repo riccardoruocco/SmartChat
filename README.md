@@ -9,7 +9,7 @@ Once trained, we can use this text classifier to create a small chatbot that ass
 ![XcodeVersion](https://badgen.net/badge/XcodeVersion/13.0/green/?icon=apple)
 ![Swift](https://badgen.net/badge/SwiftVersion/5.5/red/?icon=apple)
 ![Dependencies](https://badgen.net/badge/dependencies/none/green?)
-![BuiltFor](https://badgen.net/badge/BuiltFor/iOS15.0/green?)
+![BuiltFor](https://badgen.net/badge/BuiltFor/iOS15.0/green?) <br />
 ![FrameWork1](https://badgen.net/badge/FrameworkUsed/SwiftUI/red/?icon=apple)
 ![FrameWork2](https://badgen.net/badge/FrameworkUsed/CreateML/red/?icon=apple)
 ![FrameWork3](https://badgen.net/badge/FrameworkUsed/CoreML/red/?icon=apple)

@@ -2,7 +2,8 @@
 
 This folder contains the example used in the article "How to use a Text Classifier and Natural Language to create a simple chatbot for your iOS apps".
 <br />
-In the article I describe how to use Apple's CreateML tool to train a machine learning model that classifies text. Once trained, we can use this text classifier to create a small chatbot that assists Apple customers with certain categories of problems. <br />
+In the article I describe how to use Apple's CreateML tool to train a machine learning model that classifies text.<br />
+Once trained, we can use this text classifier to create a small chatbot that assists Apple customers with certain categories of problems. <br />
 
 
 ![Name](https://badgen.net/badge/RiccardoFrancescoRuocco/WorkingTogetherIsEasy/green?icon=github)

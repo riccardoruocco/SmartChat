@@ -5,7 +5,7 @@ In the article I describe how to use Apple's CreateML tool to train a machine le
 Once trained, we can use this text classifier to create a small chatbot that assists Apple customers with certain categories of problems. <br />
 
 
-![Name](https://badgen.net/badge/RiccardoFrancescoRuocco/WorkingTogetherIsEasy/green?icon=github)
+![Name](https://badgen.net/badge/RiccardoFrancescoRuocco/SmartChat/green?icon=github)
 ![XcodeVersion](https://badgen.net/badge/XcodeVersion/13.0/green/?icon=apple)
 ![Swift](https://badgen.net/badge/SwiftVersion/5.5/red/?icon=apple)
 ![Dependencies](https://badgen.net/badge/dependencies/none/green?)

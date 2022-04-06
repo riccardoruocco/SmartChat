@@ -18,4 +18,4 @@ Once trained, we can use this text classifier to create a small chatbot that ass
 <br />
 
 Article available on Medium: <br />
-https://medium.com/@riccardoruocco/how-to-use-a-text-classifier-and-natural-language-to-create-a-simple-chatbot-355abf10e10d
+https://medium.com/@riccardoruocco/how-to-use-createml-and-natural-language-to-create-a-simple-chatbot-for-ios-apps-46146e6f921f

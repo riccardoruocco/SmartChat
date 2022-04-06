@@ -11,7 +11,9 @@ Once trained, we can use this text classifier to create a small chatbot that ass
 ![Dependencies](https://badgen.net/badge/dependencies/none/green?)
 ![BuiltFor](https://badgen.net/badge/BuiltFor/iOS15.0/green?)
 ![FrameWork1](https://badgen.net/badge/FrameworkUsed/SwiftUI/red/?icon=apple)
-![FrameWork2](https://badgen.net/badge/FrameworkUsed/UIKit/red/?icon=apple)
+![FrameWork2](https://badgen.net/badge/FrameworkUsed/CreateML/red/?icon=apple)
+![FrameWork3](https://badgen.net/badge/FrameworkUsed/CoreML/red/?icon=apple)
+![FrameWork4](https://badgen.net/badge/FrameworkUsed/NaturalLanguage/red/?icon=apple)
 
 <br />
 
